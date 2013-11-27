@@ -40,7 +40,7 @@ environments {
             driverClassName = "com.mysql.jdbc.Driver"
             username = "aerokx66w88ov9gx"
             password = "az3gq4mn8h7m0afzdmok01uthqaelo8t"
-            url = "jdbc:mysql://192.168.2.202:32220/test"
+            url = "jdbc:mysql://192.168.2.202:54246/test"
             dialect = "org.hibernate.dialect.MySQL5InnoDBDialect"
             dbCreate = "update"
             // url = "com.mysql.jdbc.Driver;shutdown=true"
