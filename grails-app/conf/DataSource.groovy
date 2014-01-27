@@ -38,9 +38,9 @@ environments {
         dataSource {
             pooled = true
             driverClassName = "com.mysql.jdbc.Driver"
-            username = "aerokx66w88ov9gx"
-            password = "az3gq4mn8h7m0afzdmok01uthqaelo8t"
-            url = "jdbc:mysql://192.168.2.202:52284/test"
+            username = "apeijy27l0i80r8v"
+            password = "acve4q8td3x089ueh6nt9gl0cdfuy52s"
+            url = "jdbc:mysql://192.168.2.202:44765/t"
             dialect = "org.hibernate.dialect.MySQL5InnoDBDialect"
             dbCreate = "update"
             // url = "com.mysql.jdbc.Driver;shutdown=true"
